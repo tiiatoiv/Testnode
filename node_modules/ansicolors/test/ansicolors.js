@@ -1,7 +1,7 @@
 'use strict';
 
 var assert = require('assert')
-  , colors = require('..')
+  , colors = require('../ansicolors')
   , open = colors.open
   , close = colors.close
 
